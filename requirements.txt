@@ -5,6 +5,7 @@ streamlit==1.2.0
 streamlit-option-menu==0.3.2
 protobuf==3.20.*
 setuptools
+altair==4.2.2
 
 
 
